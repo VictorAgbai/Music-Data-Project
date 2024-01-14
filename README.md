@@ -13,3 +13,6 @@ The data was processed and prepared for analysis in MySQL. The data was confirme
 The SQL script written for the analysis can be found [here](https://github.com/VictorAgbai/Music-Data-Project/blob/main/MusicDataProjectScript.sql)
 
 View Dashboard [here](https://public.tableau.com/app/profile/victor.agbai/viz/MusicDataProject/Dashboard1)
+
+## Credit
+Due acknowledgement to the original author of the data [Data Source](https://data.world/charliehtableau)
